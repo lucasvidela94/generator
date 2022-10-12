@@ -13,7 +13,7 @@
   "dependencies": {
     "eslint-plugin": "^1.0.1",
     "eslint-plugin-n": "^15.3.0",
-    "yeoman-generator": "^5.7.0"
+    "yeoman-generator": "^4.0"
   },
   "devDependencies": {
     "babel-eslint": "^8.0.3",
